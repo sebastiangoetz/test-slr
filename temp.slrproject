@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><slrProjectMetainformation>
-    <title>Test SLR</title>
-    <keywords>slr, temp, fancy</keywords>
-    <projectAbstract>This is a test SLR.</projectAbstract>
+    <title>Digital Twins</title>
+    <keywords>slr, cps, runtime models</keywords>
+    <projectAbstract>This study investigates the current state of the art in digital twin development.</projectAbstract>
     <taxonomyDescription/>
     
 <authorsList>
